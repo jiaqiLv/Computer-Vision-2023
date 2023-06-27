@@ -1,0 +1,382 @@
+nohup: ignoring input
+/root/miniconda3/lib/python3.8/site-packages/torch/optim/lr_scheduler.py:129: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  warnings.warn("Detected call of `lr_scheduler.step()` before `optimizer.step()`. "
+Train Epoch: 1/100 ...
+    total_loss: 19.0464 time: 1m 14s
+Saving checkpoint: 1
+Train Epoch: 2/100 ...
+    total_loss: 13.0662 time: 1m 13s
+Saving checkpoint: 2
+Train Epoch: 3/100 ...
+    total_loss: 8.8125 time: 1m 15s
+Saving checkpoint: 3
+Train Epoch: 4/100 ...
+    total_loss: 5.6700 time: 1m 14s
+Saving checkpoint: 4
+Train Epoch: 5/100 ...
+    total_loss: 3.5395 time: 1m 13s
+Test Epoch: 5 ...
+    ave: 98.4375%
+Saving checkpoint: 5
+Train Epoch: 6/100 ...
+   threshold = 0.291
+   threshold = 0.291
+   threshold = 0.287
+   threshold = 0.291
+   threshold = 0.291
+   threshold = 0.291
+   threshold = 0.291
+   threshold = 0.291
+   threshold = 0.292
+   threshold = 0.291
+    total_loss: 2.2910 time: 1m 13s
+Saving checkpoint: 6
+Train Epoch: 7/100 ...
+    total_loss: 1.6427 time: 1m 14s
+Saving checkpoint: 7
+Train Epoch: 8/100 ...
+    total_loss: 1.2699 time: 1m 14s
+Saving checkpoint: 8
+Train Epoch: 9/100 ...
+    total_loss: 1.0399 time: 1m 14s
+Saving checkpoint: 9
+Train Epoch: 10/100 ...
+    total_loss: 0.8671 time: 1m 13s
+Test Epoch: 10 ...
+    ave: 98.5250%
+Saving checkpoint: 10
+Train Epoch: 11/100 ...
+   threshold = 0.305
+   threshold = 0.304
+   threshold = 0.305
+   threshold = 0.304
+   threshold = 0.304
+   threshold = 0.304
+   threshold = 0.308
+   threshold = 0.304
+   threshold = 0.304
+   threshold = 0.304
+    total_loss: 0.7424 time: 1m 14s
+Saving checkpoint: 11
+Train Epoch: 12/100 ...
+    total_loss: 0.6470 time: 1m 14s
+Saving checkpoint: 12
+Train Epoch: 13/100 ...
+    total_loss: 0.5870 time: 1m 14s
+Saving checkpoint: 13
+Train Epoch: 14/100 ...
+    total_loss: 0.5348 time: 1m 13s
+Saving checkpoint: 14
+Train Epoch: 15/100 ...
+    total_loss: 0.4837 time: 1m 14s
+Test Epoch: 15 ...
+    ave: 98.6500%
+Saving checkpoint: 15
+Train Epoch: 16/100 ...
+   threshold = 0.282
+   threshold = 0.283
+   threshold = 0.280
+   threshold = 0.283
+   threshold = 0.281
+   threshold = 0.283
+   threshold = 0.283
+   threshold = 0.281
+   threshold = 0.283
+   threshold = 0.283
+    total_loss: 0.4513 time: 1m 14s
+Saving checkpoint: 16
+Train Epoch: 17/100 ...
+    total_loss: 0.4113 time: 1m 14s
+Saving checkpoint: 17
+Train Epoch: 18/100 ...
+    total_loss: 0.3912 time: 1m 13s
+Saving checkpoint: 18
+Train Epoch: 19/100 ...
+    total_loss: 0.3517 time: 1m 14s
+Saving checkpoint: 19
+Train Epoch: 20/100 ...
+    total_loss: 0.3388 time: 1m 13s
+Test Epoch: 20 ...
+    ave: 98.5125%
+Saving checkpoint: 20
+Train Epoch: 21/100 ...
+   threshold = 0.280
+   threshold = 0.306
+   threshold = 0.308
+   threshold = 0.306
+   threshold = 0.281
+   threshold = 0.307
+   threshold = 0.281
+   threshold = 0.306
+   threshold = 0.307
+   threshold = 0.306
+    total_loss: 0.3153 time: 1m 14s
+Saving checkpoint: 21
+Train Epoch: 22/100 ...
+    total_loss: 0.2984 time: 1m 13s
+Saving checkpoint: 22
+Train Epoch: 23/100 ...
+    total_loss: 0.2857 time: 1m 13s
+Saving checkpoint: 23
+Train Epoch: 24/100 ...
+    total_loss: 0.2749 time: 1m 14s
+Saving checkpoint: 24
+Train Epoch: 25/100 ...
+    total_loss: 0.2660 time: 1m 13s
+Test Epoch: 25 ...
+    ave: 98.4750%
+Saving checkpoint: 25
+Train Epoch: 26/100 ...
+   threshold = 0.304
+   threshold = 0.310
+   threshold = 0.309
+   threshold = 0.279
+   threshold = 0.290
+   threshold = 0.303
+   threshold = 0.290
+   threshold = 0.309
+   threshold = 0.312
+   threshold = 0.309
+    total_loss: 0.2457 time: 1m 14s
+Saving checkpoint: 26
+Train Epoch: 27/100 ...
+    total_loss: 0.2282 time: 1m 14s
+Saving checkpoint: 27
+Train Epoch: 28/100 ...
+    total_loss: 0.2388 time: 1m 13s
+Saving checkpoint: 28
+Train Epoch: 29/100 ...
+    total_loss: 0.2204 time: 1m 14s
+Saving checkpoint: 29
+Train Epoch: 30/100 ...
+    total_loss: 0.2079 time: 1m 13s
+Test Epoch: 30 ...
+    ave: 98.6250%
+Saving checkpoint: 30
+Train Epoch: 31/100 ...
+   threshold = 0.274
+   threshold = 0.288
+   threshold = 0.286
+   threshold = 0.277
+   threshold = 0.288
+   threshold = 0.288
+   threshold = 0.285
+   threshold = 0.289
+   threshold = 0.271
+   threshold = 0.293
+    total_loss: 0.2087 time: 1m 14s
+Saving checkpoint: 31
+Train Epoch: 32/100 ...
+    total_loss: 0.2015 time: 1m 16s
+Saving checkpoint: 32
+Train Epoch: 33/100 ...
+    total_loss: 0.1836 time: 1m 13s
+Saving checkpoint: 33
+Train Epoch: 34/100 ...
+    total_loss: 0.1793 time: 1m 13s
+Saving checkpoint: 34
+Train Epoch: 35/100 ...
+    total_loss: 0.1789 time: 1m 12s
+Test Epoch: 35 ...
+    ave: 98.7500%
+Saving checkpoint: 35
+Train Epoch: 36/100 ...
+   threshold = 0.289
+   threshold = 0.294
+   threshold = 0.294
+   threshold = 0.289
+   threshold = 0.289
+   threshold = 0.293
+   threshold = 0.289
+   threshold = 0.288
+   threshold = 0.289
+   threshold = 0.289
+    total_loss: 0.1746 time: 1m 13s
+Saving checkpoint: 36
+Train Epoch: 37/100 ...
+    total_loss: 0.1717 time: 1m 13s
+Saving checkpoint: 37
+Train Epoch: 38/100 ...
+    total_loss: 0.1621 time: 1m 13s
+Saving checkpoint: 38
+Train Epoch: 39/100 ...
+    total_loss: 0.1537 time: 1m 13s
+Saving checkpoint: 39
+Train Epoch: 40/100 ...
+    total_loss: 0.1496 time: 1m 13s
+Test Epoch: 40 ...
+    ave: 98.7375%
+Saving checkpoint: 40
+Train Epoch: 41/100 ...
+   threshold = 0.287
+   threshold = 0.288
+   threshold = 0.287
+   threshold = 0.292
+   threshold = 0.292
+   threshold = 0.292
+   threshold = 0.288
+   threshold = 0.292
+   threshold = 0.292
+   threshold = 0.288
+    total_loss: 0.1451 time: 1m 12s
+Saving checkpoint: 41
+Train Epoch: 42/100 ...
+    total_loss: 0.1417 time: 1m 14s
+Saving checkpoint: 42
+Train Epoch: 43/100 ...
+    total_loss: 0.1409 time: 1m 12s
+Saving checkpoint: 43
+Train Epoch: 44/100 ...
+    total_loss: 0.1322 time: 1m 12s
+Saving checkpoint: 44
+Train Epoch: 45/100 ...
+    total_loss: 0.1298 time: 1m 13s
+Test Epoch: 45 ...
+    ave: 98.8625%
+Saving checkpoint: 45
+Train Epoch: 46/100 ...
+   threshold = 0.283
+   threshold = 0.283
+   threshold = 0.283
+   threshold = 0.283
+   threshold = 0.284
+   threshold = 0.283
+   threshold = 0.283
+   threshold = 0.283
+   threshold = 0.283
+   threshold = 0.283
+    total_loss: 0.1299 time: 1m 13s
+Saving checkpoint: 46
+Train Epoch: 47/100 ...
+    total_loss: 0.1252 time: 1m 14s
+Saving checkpoint: 47
+Train Epoch: 48/100 ...
+    total_loss: 0.1216 time: 1m 13s
+Saving checkpoint: 48
+Train Epoch: 49/100 ...
+    total_loss: 0.1196 time: 1m 13s
+Saving checkpoint: 49
+Train Epoch: 50/100 ...
+    total_loss: 0.1225 time: 1m 13s
+Test Epoch: 50 ...
+    ave: 98.7625%
+Saving checkpoint: 50
+Train Epoch: 51/100 ...
+   threshold = 0.298
+   threshold = 0.296
+   threshold = 0.295
+   threshold = 0.296
+   threshold = 0.294
+   threshold = 0.298
+   threshold = 0.296
+   threshold = 0.298
+   threshold = 0.296
+   threshold = 0.296
+    total_loss: 0.1136 time: 1m 14s
+Saving checkpoint: 51
+Train Epoch: 52/100 ...
+    total_loss: 0.1183 time: 1m 13s
+Saving checkpoint: 52
+Train Epoch: 53/100 ...
+    total_loss: 0.1064 time: 1m 13s
+Saving checkpoint: 53
+Train Epoch: 54/100 ...
+    total_loss: 0.1093 time: 1m 12s
+Saving checkpoint: 54
+Train Epoch: 55/100 ...
+    total_loss: 0.1066 time: 1m 13s
+Test Epoch: 55 ...
+    ave: 98.7000%
+Saving checkpoint: 55
+Train Epoch: 56/100 ...
+   threshold = 0.307
+   threshold = 0.299
+   threshold = 0.300
+   threshold = 0.306
+   threshold = 0.299
+   threshold = 0.298
+   threshold = 0.299
+   threshold = 0.299
+   threshold = 0.308
+   threshold = 0.299
+    total_loss: 0.1059 time: 1m 13s
+Saving checkpoint: 56
+Train Epoch: 57/100 ...
+    total_loss: 0.1033 time: 1m 13s
+Saving checkpoint: 57
+Train Epoch: 58/100 ...
+    total_loss: 0.0952 time: 1m 13s
+Saving checkpoint: 58
+Train Epoch: 59/100 ...
+    total_loss: 0.0934 time: 1m 13s
+Saving checkpoint: 59
+Train Epoch: 60/100 ...
+    total_loss: 0.0935 time: 1m 14s
+Test Epoch: 60 ...
+    ave: 98.6625%
+Saving checkpoint: 60
+Train Epoch: 61/100 ...
+   threshold = 0.296
+   threshold = 0.295
+   threshold = 0.296
+   threshold = 0.283
+   threshold = 0.288
+   threshold = 0.295
+   threshold = 0.288
+   threshold = 0.295
+   threshold = 0.296
+   threshold = 0.296
+    total_loss: 0.0944 time: 1m 13s
+Saving checkpoint: 61
+Train Epoch: 62/100 ...
+    total_loss: 0.0884 time: 1m 13s
+Saving checkpoint: 62
+Train Epoch: 63/100 ...
+    total_loss: 0.0927 time: 1m 14s
+Saving checkpoint: 63
+Train Epoch: 64/100 ...
+    total_loss: 0.0851 time: 1m 14s
+Saving checkpoint: 64
+Train Epoch: 65/100 ...
+    total_loss: 0.0850 time: 1m 13s
+Test Epoch: 65 ...
+    ave: 98.6750%
+Saving checkpoint: 65
+Train Epoch: 66/100 ...
+   threshold = 0.299
+   threshold = 0.295
+   threshold = 0.297
+   threshold = 0.290
+   threshold = 0.290
+   threshold = 0.296
+   threshold = 0.290
+   threshold = 0.300
+   threshold = 0.290
+   threshold = 0.290
+    total_loss: 0.0835 time: 1m 13s
+Saving checkpoint: 66
+Train Epoch: 67/100 ...
+    total_loss: 0.0814 time: 1m 13s
+Saving checkpoint: 67
+Train Epoch: 68/100 ...
+    total_loss: 0.0827 time: 1m 13s
+Saving checkpoint: 68
+Train Epoch: 69/100 ...
+    total_loss: 0.0783 time: 1m 13s
+Saving checkpoint: 69
+Train Epoch: 70/100 ...
+    total_loss: 0.0797 time: 1m 12s
+Test Epoch: 70 ...
+    ave: 98.6125%
+Saving checkpoint: 70
+Train Epoch: 71/100 ...
+   threshold = 0.280
+   threshold = 0.293
+   threshold = 0.293
+   threshold = 0.295
+   threshold = 0.294
+   threshold = 0.290
+   threshold = 0.281
+   threshold = 0.295
+   threshold = 0.289
+   threshold = 0.288
